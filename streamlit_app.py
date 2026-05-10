@@ -21,8 +21,4 @@ flipper_length_mm = st.number_input(
 )
 
 st.write("Prediction goes here")
-streamlit==1.39.0
-pandas==2.2.3
-scikit-learn==1.5.2
-joblib==1.4.2
-numpy==2.1.
+
